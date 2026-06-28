@@ -13,10 +13,12 @@
 ## Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -29,5 +31,10 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
