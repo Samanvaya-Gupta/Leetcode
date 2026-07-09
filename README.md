@@ -98,4 +98,16 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0063-unique-paths-ii) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
