@@ -96,6 +96,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0213-house-robber-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0232-implement-queue-using-stacks](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0678-valid-parenthesis-string](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Design
 |  |
 | ------- |
@@ -143,5 +145,10 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0860-lemonade-change) |
+## String
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
