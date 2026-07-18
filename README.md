@@ -12,6 +12,7 @@
 | [0213-house-robber-ii](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0213-house-robber-ii) |
 | [0455-assign-cookies](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0860-lemonade-change) |
+| [1701-average-waiting-time](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/1701-average-waiting-time) |
 ## Hash Table
 |  |
 | ------- |
@@ -151,4 +152,8 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0678-valid-parenthesis-string) |
+## Simulation
+|  |
+| ------- |
+| [1701-average-waiting-time](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/1701-average-waiting-time) |
 <!---LeetCode Topics End-->
