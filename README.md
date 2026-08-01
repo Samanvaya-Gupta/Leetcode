@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -73,6 +74,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
