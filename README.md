@@ -18,6 +18,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0860-lemonade-change) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1701-average-waiting-time](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/1701-average-waiting-time) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
@@ -111,6 +113,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Dynamic Programming
 |  |
@@ -152,6 +155,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0232-implement-queue-using-stacks](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
 | ------- |
@@ -195,6 +199,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -203,4 +208,8 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
