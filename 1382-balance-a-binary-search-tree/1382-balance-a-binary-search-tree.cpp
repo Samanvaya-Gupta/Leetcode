@@ -17,7 +17,7 @@ private:
         inordr.push_back(root->val);
         inorder(root -> right, inordr);
     }
-    TreeNode* inordertoBST(int s, int e, vector<int> inordr){
+    TreeNode* inordertoBST(int s, int e, vector<int>& inordr){
         if(s>e) return NULL;
         int mid = s + (e-s)/2;
         TreeNode* root = new TreeNode(inordr[mid]);
