@@ -12,6 +12,7 @@
 | [0063-unique-paths-ii](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0135-candy](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0213-house-robber-ii) |
@@ -39,6 +40,7 @@
 | [0101-symmetric-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -111,6 +113,7 @@
 | [0101-symmetric-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -154,6 +157,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Math
@@ -216,6 +220,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0450-delete-node-in-a-bst) |
