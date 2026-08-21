@@ -34,6 +34,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0208-implement-trie-prefix-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0767-reorganize-string](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0846-hand-of-straights) |
@@ -231,6 +232,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0767-reorganize-string) |
 ## Simulation
@@ -291,6 +293,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Counting
