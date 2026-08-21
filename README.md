@@ -22,6 +22,7 @@
 | [0455-assign-cookies](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0860-lemonade-change](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1701-average-waiting-time](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/1701-average-waiting-time) |
 ## Hash Table
@@ -242,6 +243,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0875-koko-eating-bananas](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
