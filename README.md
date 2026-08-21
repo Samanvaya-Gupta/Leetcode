@@ -26,6 +26,7 @@
 | [0875-koko-eating-bananas](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1701-average-waiting-time](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/1701-average-waiting-time) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Tree
 |  |
 | ------- |
@@ -290,6 +292,7 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Counting
 |  |
 | ------- |
