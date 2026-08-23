@@ -1,17 +1,17 @@
 class Solution {
 private:
-    void addSoln(vector<vector<string>>& ans, vector<vector<int>> board, int n){
-        vector<string> temp;
-        for(int i=0; i<n; i++){
-            string s = "";
-            for(int j=0; j<n; j++){
-                if(board[i][j]==0) s.push_back('.');
-                else s.push_back('Q');
-            }
-            temp.push_back(s);
-        }
-        ans.push_back(temp);
-    }
+    // void addSoln(vector<vector<string>>& ans, vector<vector<int>> board, int n){
+    //     vector<string> temp;
+    //     for(int i=0; i<n; i++){
+    //         string s = "";
+    //         for(int j=0; j<n; j++){
+    //             if(board[i][j]==0) s.push_back('.');
+    //             else s.push_back('Q');
+    //         }
+    //         temp.push_back(s);
+    //     }
+    //     ans.push_back(temp);
+    // }
 
     bool isSafe(int row, int col, vector<vector<int>> board, int n){
         int x = row, y=col;
