@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0045-jump-game-ii](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0045-jump-game-ii) |
+| [0051-n-queens](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0057-insert-interval) |
@@ -165,6 +166,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0113-path-sum-ii) |
 ## Divide and Conquer
 |  |
@@ -305,4 +307,8 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
