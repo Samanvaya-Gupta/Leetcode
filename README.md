@@ -17,6 +17,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0135-candy](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -248,6 +249,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0209-minimum-size-subarray-sum](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0450-delete-node-in-a-bst) |
@@ -296,6 +298,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -313,4 +316,8 @@
 | ------- |
 | [0051-n-queens](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0052-n-queens-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
