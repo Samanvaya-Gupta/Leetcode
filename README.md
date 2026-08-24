@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0037-sudoku-solver](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0055-jump-game) |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0208-implement-trie-prefix-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -167,6 +169,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0052-n-queens-ii) |
 | [0113-path-sum-ii](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0113-path-sum-ii) |
@@ -190,6 +193,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0063-unique-paths-ii) |
 ## Stack
 |  |
@@ -314,10 +318,15 @@
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0052-n-queens-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
