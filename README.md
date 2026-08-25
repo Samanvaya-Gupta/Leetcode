@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0036-valid-sudoku](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0051-n-queens) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -193,6 +195,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0063-unique-paths-ii) |
 ## Stack
