@@ -164,6 +164,7 @@
 | [0055-jump-game](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0213-house-robber-ii) |
@@ -193,6 +194,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0509-fibonacci-number) |
 ## Combinatorics
 |  |
@@ -351,5 +353,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
