@@ -26,6 +26,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0746-min-cost-climbing-stairs](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0846-hand-of-straights](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -171,6 +172,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Backtracking
 |  |
