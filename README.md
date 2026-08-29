@@ -35,6 +35,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1701-average-waiting-time](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/1701-average-waiting-time) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2742-painting-the-walls](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/2742-painting-the-walls) |
 ## Hash Table
 |  |
 | ------- |
@@ -179,6 +180,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2742-painting-the-walls](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/2742-painting-the-walls) |
 ## Backtracking
 |  |
 | ------- |
