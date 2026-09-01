@@ -28,6 +28,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0494-target-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0746-min-cost-climbing-stairs](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0846-hand-of-straights](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0846-hand-of-straights) |
@@ -178,6 +179,7 @@
 | [0403-frog-jump](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -191,6 +193,7 @@
 | [0052-n-queens-ii](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0113-path-sum-ii) |
+| [0494-target-sum](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0494-target-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -371,6 +374,7 @@
 | ------- |
 | [0322-coin-change](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -379,4 +383,5 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
