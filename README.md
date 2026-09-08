@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0045-jump-game-ii) |
@@ -247,6 +248,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0455-assign-cookies](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
