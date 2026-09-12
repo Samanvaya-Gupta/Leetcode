@@ -169,6 +169,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0062-unique-paths) |
@@ -226,6 +227,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0232-implement-queue-using-stacks](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -268,6 +270,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0032-longest-valid-parentheses](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0208-implement-trie-prefix-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -388,4 +391,8 @@
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0494-target-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
