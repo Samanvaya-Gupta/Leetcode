@@ -37,6 +37,7 @@
 | [0860-lemonade-change](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1701-average-waiting-time](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/1701-average-waiting-time) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2742-painting-the-walls](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/2742-painting-the-walls) |
@@ -187,6 +188,7 @@
 | [0509-fibonacci-number](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2742-painting-the-walls](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/2742-painting-the-walls) |
 ## Backtracking
@@ -224,6 +226,7 @@
 | [0036-valid-sudoku](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0063-unique-paths-ii) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Stack
 |  |
 | ------- |
