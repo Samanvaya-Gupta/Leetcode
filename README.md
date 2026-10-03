@@ -25,6 +25,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0221-maximal-square](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -181,6 +182,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -228,6 +230,7 @@
 | [0036-valid-sudoku](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0221-maximal-square](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0221-maximal-square) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Stack
 |  |
