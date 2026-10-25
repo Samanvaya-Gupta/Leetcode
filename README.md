@@ -178,6 +178,7 @@
 | [0062-unique-paths](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0198-house-robber) |
@@ -282,6 +283,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0072-edit-distance](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0072-edit-distance) |
 | [0208-implement-trie-prefix-tree](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/Samanvaya-Gupta/Leetcode/tree/master/0402-remove-k-digits) |
